@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L17.795 0L17.795 11.2395L0 11.2395L0 0Z" transform="translate(0 0.18285)" id="path_1" />
+    <path d="M0 20.117L21.0555 20.117L21.0555 0L0 0L0 20.117Z" transform="translate(0 0.0002)" id="path_2" />
+    <rect width="24" height="24" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <clipPath id="mask_2">
+      <use xlink:href="#path_2" />
+    </clipPath>
+  </defs>
+  <g id="PICTO-NUAGES-PLUIE-SOLEIL" clip-path="url(#clip_1)">
+    <path d="M0 0L24 0L24 24L0 24L0 0Z" id="Rectangle" fill="none" fill-rule="evenodd" stroke="none" />
+    <g id="Group-16" transform="translate(2 2)">
+      <g id="Group-3" transform="translate(0 3.1172)">
+        <path d="M0 0L17.795 0L17.795 11.2395L0 11.2395L0 0Z" transform="translate(0 0.18285)" id="Clip-2" fill="none" fill-rule="evenodd" stroke="none" />
+        <g clip-path="url(#mask_1)">
+          <path d="M3.5955 11.2395L15.169 11.2395C16.617 11.2395 17.795 9.9825 17.795 8.438C17.795 8.4005 17.794 8.3625 17.792 8.3255L17.783 8.325C17.7835 8.312 17.784 8.298 17.784 8.2845C17.784 8.2435 17.7825 8.2015 17.78 8.161C17.769 8.0465 17.7535 7.9395 17.7325 7.8385L17.7055 7.707C17.5565 7.1495 17.2325 6.7125 17.0925 6.542C16.5935 5.966 15.9175 5.6445 15.189 5.6385L15.076 5.638L15.0645 5.518C14.8775 3.5895 13.364 2.135 11.5435 2.135C11.332 2.135 11.1165 2.1565 10.9025 2.198L10.819 2.214L10.773 2.138C10.513 1.701 10.184 1.313 9.794 0.986L9.7255 0.928L9.728 0.92C9.537 0.7675 9.329 0.6285 9.107 0.507L9.0175 0.4625C8.4285 0.156 7.8 0 7.149 0C5.1735 0 3.4175 1.491 2.973 3.5445L2.9545 3.629L2.875 3.646C1.182 4.0085 0 5.554 0 7.404C0 9.519 1.613 11.2395 3.5955 11.2395" transform="translate(-5E-05 0.18285)" id="Fill-1" fill="#E74832" fill-rule="evenodd" stroke="none" />
+        </g>
+      </g>
+      <path d="M6.668 5.8675L5.7465 5.479C5.915 5.0805 6 4.658 6 4.2235C6 2.446 4.5535 1 2.776 1C1.9145 1 1.1825 1.263 0.715 1.7415L0 1.0425C0.657 0.37 1.643 0 2.776 0C5.1055 0 7 1.8945 7 4.2235C7 4.793 6.888 5.3455 6.668 5.8675" transform="translate(11.2021 2.5661)" id="Fill-4" fill="#003B5C" fill-rule="evenodd" stroke="none" />
+      <path d="M1.1995 2L0 0.67L0.7425 0L1.942 1.33L1.1995 2Z" transform="translate(9.383 1.03275)" id="Fill-6" fill="#003B5C" fill-rule="evenodd" stroke="none" />
+      <path d="M0 20.117L21.0555 20.117L21.0555 0L0 0L0 20.117Z" transform="translate(0 0.0002)" id="Clip-9" fill="none" fill-rule="evenodd" stroke="none" />
+      <g clip-path="url(#mask_2)">
+        <path d="M0 1.539L1 1.539L1 0L0 0L0 1.539Z" transform="translate(14.441 0.0002)" id="Fill-8" fill="#003B5C" fill-rule="evenodd" stroke="none" />
+        <path d="M0.707 2.0055L0 1.2985L1.2985 0L2.0055 0.707L0.707 2.0055Z" transform="translate(17.8679 1.8661)" id="Fill-10" fill="#003B5C" fill-rule="evenodd" stroke="none" />
+        <path d="M0 1L2.052 1L2.052 0L0 0L0 1Z" transform="translate(19.0035 5.9792)" id="Fill-11" fill="#003B5C" fill-rule="evenodd" stroke="none" />
+        <path d="M0.707 2.5565L0 1.8495L1.8495 0L2.5565 0.707L0.707 2.5565Z" transform="translate(0.7146 15.299)" id="Fill-12" fill="#003B5C" fill-rule="evenodd" stroke="none" />
+        <path d="M0.707 2.5565L0 1.8495L1.8495 0L2.5565 0.707L0.707 2.5565Z" transform="translate(11.88625 15.299)" id="Fill-13" fill="#003B5C" fill-rule="evenodd" stroke="none" />
+        <path d="M0.707 4.8185L0 4.1115L4.112 0L4.819 0.707L0.707 4.8185Z" transform="translate(2.2754 15.2987)" id="Fill-14" fill="#003B5C" fill-rule="evenodd" stroke="none" />
+        <path d="M0.707 4.8185L0 4.1115L4.111 0L4.818 0.707L0.707 4.8185Z" transform="translate(6.3872 15.2987)" id="Fill-15" fill="#003B5C" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>
